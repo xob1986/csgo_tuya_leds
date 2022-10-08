@@ -5,7 +5,7 @@ CSGO-Leds Tuya
 2. Run *python gsi_server.py* in a terminal from the location of this repository.
 
 Thanks to:
-  Jason Cox: https://pypi.org/project/tinytuya/ (https://pypi.org/user/jasonacox/)
-  Valve: https://developer.valvesoftware.com/wiki/Counter-Strike:_Global_Offensive_Game_State_Integration
-  mdhedelund: https://github.com/mdhedelund/CSGO-GSI
+- Jason Cox: https://pypi.org/project/tinytuya/ (https://pypi.org/user/jasonacox/)
+- Valve: https://developer.valvesoftware.com/wiki/Counter-Strike:_Global_Offensive_Game_State_Integration
+- mdhedelund: https://github.com/mdhedelund/CSGO-GSI
   
